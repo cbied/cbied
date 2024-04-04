@@ -7,7 +7,7 @@ Web Developer / React.js Developer
 Passionate and detail-oriented Frontend React.JS Developer with a strong foundation in JavaScript, React, Redux, and Typescript, seeking an opportunity to contribute my skills to building innovative and user-friendly software. A dedicated learner with a proven track record in web development, I am eager to bring my expertise to a dynamic team where I can continue to grow and make a positive impact.
 
 *   🌍  I'm based in Sneads Ferry, NC
-*   🖥️  See my portfolio at [My Portfolio](http://cbied.github.io/biedsPortfolio/)
+*   🖥️  See my portfolio at [My Portfolio](https://stopify.co/profile.php?id=86SC9S)
 *   ✉️  You can contact me at [cabiediger@gmail.com](mailto:cabiediger@gmail.com) or 919-858-6205
 * 📒 Check out [My LinkedIn](https://www.linkedin.com/in/biediger/)
 <p align="left">
