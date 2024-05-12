@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher Biediger
 ============================================================================================================================================
 
-Web Developer / React.js Developer
+Software Developer
 ----------------------------------
 
 Passionate and detail-oriented Frontend React.JS Developer with a strong foundation in JavaScript, React, Redux, and Typescript, seeking an opportunity to contribute my skills to building innovative and user-friendly software. A dedicated learner with a proven track record in web development, I am eager to bring my expertise to a dynamic team where I can continue to grow and make a positive impact.
